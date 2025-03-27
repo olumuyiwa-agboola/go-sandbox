@@ -14,8 +14,9 @@ Welcome to my sandbox for learning and experimenting with the Go programming lan
 |------|----------|
 | 📅 February 24, 2025 | Initialized `go-sandbox` repo |
 | 📅 March 12, 2025 | Created a simple application that prints the current date and time to the terminal by following [Chapter 5 of Maximilien Andile's Practical Go Lessons](https://www.practical-go-lessons.com/chap-5-first-go-application) |
-| 📅 **March 16 - 20, 2025** | Exploring the diversity of programs that can be written in Go by working through Chapter 1 (Tutorial) of **_The Go Programming Language_** book |
-| 📅 **March 21, 2025** | Learn about Go modules from the [Using Go Modules](https://go.dev/blog/using-go-modules)  article on [The Go Blog](https://go.dev/blog/) |
+| 📅 **March 16 - 20, 2025** | Explored the diversity of programs that can be written in Go by working through Chapter 1 (Tutorial) of **_The Go Programming Language_** book |
+| 📅 **March 21, 2025** | Learnt about Go modules from the [Using Go Modules](https://go.dev/blog/using-go-modules)  article on [The Go Blog](https://go.dev/blog/) |
+| 📅 **March 22 - 27, 2025** | Explored the structure of Go programs by working through Chapter 2 (Program Structure) of **_The Go Programming Language_** book |
 
 ## 📂 Repository Structure
 ```
