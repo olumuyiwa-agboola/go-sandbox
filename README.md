@@ -17,6 +17,7 @@ Welcome to my sandbox for learning and experimenting with the Go programming lan
 | 📅 **March 16 - 20, 2025** | Explored the diversity of programs that can be written in Go by working through Chapter 1 (Tutorial) of **_The Go Programming Language_** book |
 | 📅 **March 21, 2025** | Learnt about Go modules from the [Using Go Modules](https://go.dev/blog/using-go-modules)  article on [The Go Blog](https://go.dev/blog/) |
 | 📅 **March 22 - 27, 2025** | Explored the structure of Go programs by working through Chapter 2 (Program Structure) of **_The Go Programming Language_** book |
+| 📅 **April 02, 2025** | Learnt about generic in Go from the [Tutorial: Getting started with generics](https://go.dev/doc/tutorial/generics) |
 
 ## 📂 Repository Structure
 ```
@@ -25,6 +26,7 @@ go-sandbox/
             ├── ch1/
             ├── ch2/
     │── dateAndTime/    # Simple application to print current date and time 
+    │── generics/       # Code from "Tutorial: Getting started with generics" 
     │── go-modules/     # Code from the "Using Go Modules" article from The Go Blog
     │── README.md       # Learning documentation
     │── .gitignore      # Ignoring unnecessary files
